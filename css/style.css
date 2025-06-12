@@ -1,0 +1,11 @@
+.alturaCarousel {
+  height: 90dvh;
+}
+.alturaDestacados {
+  height: 60dvh;
+}
+.imagenes {
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
+}
